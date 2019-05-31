@@ -4,9 +4,9 @@
 <head>
   <title>Brown Bears</title>
 </head>
-
+<br><br>
 <body>
-  <a href="./index.html">Brown Bear</a><br><br>
+  <a href="./index.html">Brown Bear</a><br>
   <a href="./aboutme.html">About Me</a>
   <h1>The Brown Bear</h1>
   <div id="introduction">
